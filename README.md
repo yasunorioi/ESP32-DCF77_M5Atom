@@ -4,7 +4,7 @@ DFC77 emurator
 
 ## use M5Atom
 
-add DFC77_M5Atom.ino
+Arduino build DFC77_M5Atom.ino
 
 ## Usage
 
