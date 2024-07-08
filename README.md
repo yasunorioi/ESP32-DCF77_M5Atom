@@ -1,11 +1,11 @@
-##overview
+## Overview
 
 DFC77 emurator
 
-##use M5Atom
+## use M5Atom
 
 add DFC77_M5Atom.ino
 
-##usage
+## Usage
 
 GPIO 22 pin - DFC77 output antenna 50cm-
